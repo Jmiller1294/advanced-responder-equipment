@@ -9,7 +9,7 @@ function test() {
 
 function gabeBranch() {
   console.log('the branch is created');
-}
+}        
 
 function add() {
   return 1 + 1;
@@ -19,3 +19,8 @@ hello();
 test();
 gabeBranch();
 console.log('test outside function');
+
+
+function meh(){
+  console.log('I like cheeze!!!')
+}
